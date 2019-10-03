@@ -21,7 +21,7 @@ import Update from './Update';
 class ArtifactList extends Component {
 
     componentDidMount(){
-      this.props.getItems();
+      //this.props.getItems();
     }
 
     render(){
