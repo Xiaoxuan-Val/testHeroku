@@ -1,3 +1,5 @@
+This repository was meant to test Heroku post build for University of Melboune IT Project.
+-------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
